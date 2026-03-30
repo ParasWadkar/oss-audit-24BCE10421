@@ -1,7 +1,7 @@
 # The Open Source Audit | VITyarthi Capstone
 **Course:** Open Source Software (NGMC)  
 **Student Name:** Paras Pitu Wadkar  
-**Registration Number:** 24BCE10421 
+**Registration Number:** 24BCE10421  
 **Target Software:** Git (Version Control System)
 
 ## Project Overview
