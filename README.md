@@ -1,6 +1,7 @@
 # The Open Source Audit | VITyarthi Capstone
 **Course:** Open Source Software (NGMC)  
 **Student Name:** Paras Pitu Wadkar  
+**Registration Number** 24BCE10421
 **Target Software:** Git (Version Control System)
 
 ## Project Overview
@@ -17,16 +18,22 @@ This repository contains the technical component of the Open Source Audit capsto
 To execute these scripts on a Linux environment (Ubuntu/Fedora/Debian):
 
 1. **Clone the repository:**
-   git clone https://github.com/YOUR_USERNAME/oss-audit-YOUR_ROLL_NUMBER.git
+   git clone https://github.com/ParasWadkar/oss-audit-24BCE10421.git
 
 2. **Navigate to the directory:**
-   cd oss-audit-YOUR_ROLL_NUMBER/scripts
+```
+   cd oss-audit-24BCE10421/scripts
+```
 
 3. **Make scripts executable:**
+```
    chmod +x *.sh
+```
 
 4. **Run a script (Example):**
+```
    ./identity.sh
+```
 
 ## Requirements
 - A Linux-based OS (Physical or Virtual Machine)
