@@ -17,7 +17,7 @@ This repository contains the technical component of the Open Source Audit capsto
 ## How to Run
 To execute these scripts on a Linux environment (Ubuntu/Fedora/Debian):
 
-1. **Clone the repository:** 
+1. **Clone the repository:**  
    git clone https://github.com/ParasWadkar/oss-audit-24BCE10421.git
 
 2. **Navigate to the directory:**
